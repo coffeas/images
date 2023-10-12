@@ -1,2 +1,2 @@
-# images
-coffeas's Figure bed
+# Figure bed
+图床
